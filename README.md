@@ -1,4 +1,4 @@
 Wikipedia-Dataset-Analysis
 ==========================
 
-Wikipedia Dataset Analysis for Data Mining course
+Data mining 2014 wikipedia articles, classify the documents for people and non-people using semi-supervised learning in Python
